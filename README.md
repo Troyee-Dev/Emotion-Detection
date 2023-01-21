@@ -4,7 +4,7 @@ In this project,we present to detect emotions in real-time human faces by CNN.Th
 https://www.kaggle.com/msambare/fer2013
 
 # Packages
-pip install numpy
+#pip install numpy
 pip install opencv-python
 pip install keras
 pip3 install --upgrade tensorflow
